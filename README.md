@@ -12,6 +12,10 @@ Path: README.md
 
 ## Credentials
 
+Route Login
+
+http://127.0.0.1:8000/login
+
 Admin
 
 - Username: admin@gmail.com
