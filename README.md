@@ -14,13 +14,13 @@ Path: README.md
 
 Admin
 
-- Username: admin@mail.com
-- Password: admin@mail.com
+- Username: admin@gmail.com
+- Password: admin@gmail.com
 
 Pegawai
 
-- Username: pegawai@mail.com
-- Password:pegawai@mail.com
+- Username: pegawai@gmail.com
+- Password:pegawai@gmail.com
 
 
 ## Requirement
