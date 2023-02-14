@@ -1,6 +1,5 @@
-### Code base of Nickel Drive for Sekawan Media Assesment
 
-This application built using laravel 8.
+This application built using laravel 9.
 
 Language: markdown
 
